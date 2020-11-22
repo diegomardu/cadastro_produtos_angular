@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caneta BIC preta",
+      "preço": 5.89
+    },
+    {
+      "id": 2,
+      "nome": "Notebook Lenovo",
+      "preço": 3400.99
+    },
+    {
+      "id": 3,
+      "nome": "Celular Motorola",
+      "preço": 2500
+    },
+    {
+      "nome": "Geladeira",
+      "preço": "4500.99",
+      "id": 5
+    }
+  ]
+}
